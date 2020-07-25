@@ -1,0 +1,20 @@
+The result for ( ( 5 + 2 ! ) ) + ( 2 * 3 ) / 4 is: 8.5
+The result for ( 5 ! + 7 ! ) - 2 is: 5158.0
+The result for 400 - 20 / 4 + 2 ^ 3 == 403 is: 1.0
+The result for ( 34 == ( 17 * 2 ) ) + 3 is: 4.0
+The result for ( ( 789 - 780 ) + ( 880 - 800 ) ) > 0  is: 1.0
+The result for ( 5 + 6 ! ) == 56 is: 0.0
+The result for 2 ^ 3 == 8 is: 1.0
+The result for ( 9 + 16 * ( 7 + 3 ) ) is: 169.0
+The result for ( 300 / 2 ) < 2000 is: 1.0
+The result for 16 / 3  is: 5.333333333333333
+The result for 5 + 50 / 5  is: 15.0
+The result for ( 14 + ( 3 + 2 ^ 8 ) ) == 3 is: 0.0
+The result for 22 + 100 == 122 is: 1.0
+The result for 56 <= 56 is: 1.0
+The result for 64 / ( 2 ^ 3 ) == 8 is: 1.0
+The result for 22 - ( 2 + 10 ) / 4 is: 19.0
+The result for ( 3 + 4 ) == 7 is: 1.0
+The result for 2 ! + 3 ! + 4 ! is: 32.0
+The result for 1000 - 20 + 65 * ( 2000 / 1000 ) is: 1110.0
+The result for 6 + 6 is: 12.0
